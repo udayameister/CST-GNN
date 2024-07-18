@@ -1,4 +1,4 @@
-# CST-GNN
+# CST-GCNN
 ## Connectome Spatial Temporal - Graph Convolutional Neural Network (CST-GCNN) based schizophrenia classification from healthy controls
 by, _**Udayakumar.P and Dr.R.Subhashini**_
 _Vellore Institute of Technology, Vellore, India_
